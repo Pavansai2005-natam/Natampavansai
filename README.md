@@ -1,78 +1,61 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pavan Sai | Portfolio</title>
+# Pavan Sai 👋
+**Computer Science Engineering Student | Web Developer | Aspiring Software Engineer**
 
-<style>
-body{
-font-family:Arial;
-margin:0;
-padding:0;
-background:#0f172a;
-color:white;
-}
-header{
-text-align:center;
-padding:60px;
-}
-h1{color:#38bdf8;}
-section{
-padding:40px;
-max-width:900px;
-margin:auto;
-}
-.card{
-background:#1e293b;
-padding:20px;
-margin:15px 0;
-border-radius:10px;
-}
-</style>
-</head>
+---
 
-<body>
+### 📬 Contact & Links
+📧 Email: natampavansai2005@gmail.com  
+📍 Location: Tirupati, Andhra Pradesh, India  
+💻 GitHub: https://github.com/yourusername  
+🔗 LinkedIn: (add if you have)
 
-<header>
-<h1>Pavan Sai</h1>
-<p>CSE Student | Web Developer</p>
-</header>
+---
 
-<section>
-<h2>About Me</h2>
-<div class="card">
-I am a Computer Science Engineering student from MBU College, Tirupati.
-I like web development and building projects.
-</div>
-</section>
+### 🎯 Professional Summary
+I am a Computer Science Engineering student at MBU College, Tirupati, passionate about web development and software engineering. I enjoy building responsive web applications and learning modern technologies.
 
-<section>
-<h2>Skills</h2>
-<div class="card">HTML, CSS, JavaScript, GitHub</div>
-</section>
+I am currently focusing on improving my skills in **Frontend Development, JavaScript, and problem-solving** while working on personal projects.
 
-<section>
-<h2>Projects</h2>
+---
 
-<div class="card">
-Portfolio Website - Built using HTML & CSS
-</div>
+### 🛠️ Technical Skills
 
-<div class="card">
-Task Manager - Basic web app
-</div>
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- Basic React.js
+- Python (Basics)
+- Java (Basics)
+- MySQL (Basics)
 
-</section>
+---
 
-<section>
-<h2>Contact</h2>
-<div class="card">
-Email: natampavansai2005@gmail.com
-<br>
-Phone: 8519956483
-</div>
-</section>
+### 🚀 Projects
 
-</body>
-</html>
+#### 💻 Portfolio Website
+A personal responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills and projects.
+
+#### 📋 Task Manager App
+A simple web application to create, update, and manage daily tasks efficiently.
+
+#### 🌦️ Weather App
+A weather forecasting application using API integration to display real-time weather data.
+
+---
+
+### 📚 Education
+
+**B.Tech - Computer Science Engineering**  
+MBU College, Tirupati  
+Final Year Student (2025–2026)
+
+---
+
+### 🎯 Goals
+- Become a Full Stack Developer  
+- Improve problem-solving skills  
+- Build real-world projects  
+- Get placed in a top tech company  
+
+---
+
+⭐ "Consistency is the key to success"
