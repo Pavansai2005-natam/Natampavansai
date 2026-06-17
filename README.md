@@ -1,61 +1,53 @@
-# Pavan Sai 👋
-**Computer Science Engineering Student | Web Developer | Aspiring Software Engineer**
+# 👋 Hi, I'm Pavan Sai
+
+### 💻 CSE Student | Web Developer | Aspiring Software Engineer  
+📍 Tirupati, Andhra Pradesh, India  
 
 ---
 
-### 📬 Contact & Links
-📧 Email: natampavansai2005@gmail.com  
-📍 Location: Tirupati, Andhra Pradesh, India  
-💻 GitHub: https://github.com/yourusername  
-🔗 LinkedIn: (add if you have)
+## 🚀 About Me
+I am a Computer Science Engineering student at MBU College, Tirupati.  
+I enjoy building web applications and learning modern technologies.
+
+I am focused on becoming a **Full Stack Developer** and improving my problem-solving skills.
 
 ---
 
-### 🎯 Professional Summary
-I am a Computer Science Engineering student at MBU College, Tirupati, passionate about web development and software engineering. I enjoy building responsive web applications and learning modern technologies.
-
-I am currently focusing on improving my skills in **Frontend Development, JavaScript, and problem-solving** while working on personal projects.
-
----
-
-### 🛠️ Technical Skills
-
-- HTML5, CSS3, JavaScript
-- Git & GitHub
-- Basic React.js
-- Python (Basics)
-- Java (Basics)
-- MySQL (Basics)
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Basic React.js  
+- Python Basics  
+- Java Basics  
+- MySQL Basics  
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-#### 💻 Portfolio Website
-A personal responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills and projects.
+### 📌 Portfolio Website
+A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
-#### 📋 Task Manager App
-A simple web application to create, update, and manage daily tasks efficiently.
+### 📌 Task Manager App
+A simple web application to manage daily tasks.
 
-#### 🌦️ Weather App
-A weather forecasting application using API integration to display real-time weather data.
+### 📌 Weather App
+A web app that shows real-time weather using API integration.
 
 ---
 
-### 📚 Education
-
+## 📚 Education
 **B.Tech - Computer Science Engineering**  
 MBU College, Tirupati  
-Final Year Student (2025–2026)
+Final Year Student
 
 ---
 
-### 🎯 Goals
-- Become a Full Stack Developer  
-- Improve problem-solving skills  
-- Build real-world projects  
-- Get placed in a top tech company  
+## 📬 Contact
+📧 Email: natampavansai2005@gmail.com  
+📱 Phone: 8519956483  
+📍 Tirupati, India  
 
 ---
 
-⭐ "Consistency is the key to success"
+⭐ *"Consistency is the key to success"*
